@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GitHub\Msgpack\msgpack-c\example\cpp03\map_based_versionup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GitHub\Msgpack\msgpack-c\example\cpp03\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1EFD3A7B-2B77-45E6-B2DB-6675C4A01A7F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
